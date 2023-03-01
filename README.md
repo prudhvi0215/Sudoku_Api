@@ -1,24 +1,13 @@
-# README
+Prior knowledge required:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Backtracking concept is essential priorly to understand the problem of solving sudoku table.
 
-Things you may want to cover:
+The above api is created using rails and it requires an unsolved sudoku as post data and it returns the solved solution of sudoku data.
 
-* Ruby version
 
-* System dependencies
+![Sudoku_puzzle](https://user-images.githubusercontent.com/53406891/222134753-f66f289c-226b-4d90-917f-41fa1e9a58ea.jpg)
 
-* Configuration
+Use the below example problem to pass as data to api:
 
-* Database creation
+[sudoku_example.txt](https://github.com/prudhvi0215/Sudoku_Api/files/10860747/sudoku_example.txt)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
